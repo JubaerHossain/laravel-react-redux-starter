@@ -22,7 +22,7 @@ class Page extends Component {
   }
 
   componentDidMount() {
-    console.log('moeen')
+    console.log('jubaer')
     const { dispatch } = this.props
 
     dispatch(articleListRequest({}))

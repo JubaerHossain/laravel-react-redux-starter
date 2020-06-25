@@ -531,7 +531,7 @@ VALUES
 	(48,'Vallie Lockman','audrey56@example.net','$2y$10$M/UACbqJT4WuHsgc4y.caO8y9gKZi0WUoHOlrJs8nBpxkpx6JhEF.','(494) 248-7741 x2608','Occaecati suscipit eos dolorem vel aperiam sapiente voluptas veritatis veritatis.',0,'0eDUU0BNYZ','2019-09-16 13:29:39','2019-09-16 13:29:39'),
 	(49,'Dr. Rodolfo Bechtelar DVM','sjaskolski@example.net','$2y$10$M/UACbqJT4WuHsgc4y.caO8y9gKZi0WUoHOlrJs8nBpxkpx6JhEF.','1-875-854-5204 x32980','Velit non suscipit et quo omnis aperiam reiciendis.',0,'YfyGfhZlIb','2019-09-16 13:29:39','2019-09-16 13:29:39'),
 	(50,'Miracle Mraz','estrella.pacocha@example.com','$2y$10$M/UACbqJT4WuHsgc4y.caO8y9gKZi0WUoHOlrJs8nBpxkpx6JhEF.','+1-829-262-5226','Aliquid sequi velit consequatur assumenda magnam voluptatem et.',0,'b8FwT0yGij','2019-09-16 13:29:39','2019-09-16 13:29:39'),
-	(51,'Moeen Basra','m.basra@live.com','$2y$10$RE9MZszBCMn3fLqxWfkUSuMxnkNFtVF/xgtFI3UrHf6buED14zLyi',NULL,NULL,1,'Y4e42BEHlW','2019-09-16 13:29:39','2019-09-16 13:29:39');
+	(51,'Jubaer Hossain','jubaer01.cse@gmail.comS','$2y$10$RE9MZszBCMn3fLqxWfkUSuMxnkNFtVF/xgtFI3UrHf6buED14zLyi',NULL,NULL,1,'Y4e42BEHlW','2019-09-16 13:29:39','2019-09-16 13:29:39');
 
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;

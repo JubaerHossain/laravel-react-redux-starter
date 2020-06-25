@@ -33,9 +33,9 @@ services:
     tty: true
     environment:
       MYSQL_DATABASE: laravel_react
-      MYSQL_USER: moeen
-      MYSQL_ROOT_PASSWORD: basra
-      MYSQL_PASSWORD: basra
+      MYSQL_USER: jubaer
+      MYSQL_ROOT_PASSWORD: hossain
+      MYSQL_PASSWORD: hossain
     ports:
       - 3333:3306
     volumes:
