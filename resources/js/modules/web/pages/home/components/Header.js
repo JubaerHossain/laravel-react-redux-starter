@@ -1,9 +1,8 @@
-import React from "react"
+import React from "react";
 
 export default function Header() {
-  return <header className="bg-primary text-white">
+  return <header className="bg-back text-white">
     <div className="container text-center">
-      <img width="125" height="125" src="https://graph.facebook.com/1243067599/picture?type=square" alt="..." className="rounded-circle" />
       <h1>Jubaer Hossain</h1>
       <p className="lead">Bsc in CSE</p>
       <p className="lead">Fullstack Developer</p>
